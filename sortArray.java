@@ -19,5 +19,6 @@ public class SortArrays {
         System.out.println("person2 added new line");
         System.out.println("Array is not sorting");
 		
+		System.out.println("added new line Paul");
 	}
 }
