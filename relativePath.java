@@ -14,5 +14,6 @@ public class AbsVsRelativePath {
 	System.out.println(myNotesRelativePath.getAbsolutePath());	
 	System.out.println("Paul modified this file");
 	System.out.println("Paul modified this file again");
+	System.out.println("I too want to add something");
 	}
 }
