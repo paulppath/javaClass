@@ -13,5 +13,6 @@ public class AbsVsRelativePath {
 	System.out.println("file exists: " + myNotesRelativePath.exists());
 	System.out.println(myNotesRelativePath.getAbsolutePath());	
 	System.out.println("Paul modified this file");
+	System.out.println("Paul modified this file again");
 	}
 }
