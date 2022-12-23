@@ -6,6 +6,6 @@ public class HelloClass
 	{
 		System.out.println("Hello, Class!");
 		System.out.println("Today is Java day 3");
-	
+		System.out.println("Add to test Git");
 	}
 }
